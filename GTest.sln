@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GTest", "GTest\GTest.vcxproj", "{106A6E4F-3AE1-4CB7-9316-641A16389262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{106A6E4F-3AE1-4CB7-9316-641A16389262}.Debug|x64.ActiveCfg = Debug|x64
+		{106A6E4F-3AE1-4CB7-9316-641A16389262}.Debug|x64.Build.0 = Debug|x64
+		{106A6E4F-3AE1-4CB7-9316-641A16389262}.Debug|x86.ActiveCfg = Debug|Win32
+		{106A6E4F-3AE1-4CB7-9316-641A16389262}.Debug|x86.Build.0 = Debug|Win32
+		{106A6E4F-3AE1-4CB7-9316-641A16389262}.Release|x64.ActiveCfg = Release|x64
+		{106A6E4F-3AE1-4CB7-9316-641A16389262}.Release|x64.Build.0 = Release|x64
+		{106A6E4F-3AE1-4CB7-9316-641A16389262}.Release|x86.ActiveCfg = Release|Win32
+		{106A6E4F-3AE1-4CB7-9316-641A16389262}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {476EA0B2-EF28-419A-BA23-8D19F82E50E1}
+	EndGlobalSection
+EndGlobal
